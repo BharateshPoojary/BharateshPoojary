@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BharateshPoojary
-- 👀 I’m passionate about developing full stack web application 
-- 🌱 I’m currently learning nextjs
+- 👀 I’m passionate about developing full stack web application using MERN Stack / Next.js
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can code for hours without realizing the time.
 
