@@ -84,10 +84,13 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/bharatesh-poojary)
-[![Email](![image](https://github.com/user-attachments/assets/b2f74cbb-0597-4b52-a37e-72b4f86f7324)
-)](mailto:bharateshpoojari@gmail.com)
+    <a href="https://linkedin.com/in/bharatesh-poojary" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45"/>
+  </a>
+     <a href="mailto:bharateshpoojari@gmail.com" target="_blank">
+    <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="LinkedIn" width="45" height="45"/>
+  </a>
+
 
 </div>
 
