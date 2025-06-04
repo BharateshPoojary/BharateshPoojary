@@ -1,7 +1,7 @@
 <div align="center">
   
 <a href="https://bharatesh-portfolio.vercel.app" target="_blank">
-<img src="https://github.com/user-attachments/assets/52343475-3a86-4832-b800-553928b03571" alt="Bharatesh Poojary" width="600" height="350"/>
+<img src="https://github.com/user-attachments/assets/52343475-3a86-4832-b800-553928b03571" alt="Bharatesh Poojary" width="w-full" height="350"/>
 </a>
 
 </div>
