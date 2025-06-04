@@ -83,7 +83,7 @@
 
 ## 🤝 Let's Connect!
 
-<div align="center" >
+<div align="center" style="display:flex; gap:2" >
     <a href="https://linkedin.com/in/bharatesh-poojary" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
@@ -96,7 +96,7 @@
 
 <div align="center">
   
-### 💭 *💭 "Every line of code tells a story. Make yours worth reading."* 
+###  *💭 "Every line of code tells a story. Make yours worth reading."* 
 
 **Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
 
