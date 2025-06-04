@@ -23,7 +23,7 @@
 ### Frontend
 <div align="left">
   <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fauth0.com%2Fblog%2Fusing-nextjs-server-actions-to-call-external-apis%2F&psig=AOvVaw0lpoEPsE-o996BKLQy8p4P&ust=1749113314560000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDS7YCx140DFQAAAAAdAAAAABAE" alt="Next.js" />
   </a>
   <a href="https://react.dev/learn" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
