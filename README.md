@@ -126,6 +126,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=BharateshPoojary&color=brightgreen&style=flat-square)
 
 </div>
-```
 
 
