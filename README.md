@@ -23,7 +23,7 @@
 ### Frontend
 <div align="left">
   <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fauth0.com%2Fblog%2Fusing-nextjs-server-actions-to-call-external-apis%2F&psig=AOvVaw0lpoEPsE-o996BKLQy8p4P&ust=1749113314560000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDS7YCx140DFQAAAAAdAAAAABAE" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </a>
   <a href="https://react.dev/learn" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -42,7 +42,7 @@
 ### UI Libraries & Tools
 <div align="left">
   <a href="https://ui.shadcn.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   </a>
   <a href="https://tanstack.com/query/latest" target="_blank">
     <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
@@ -112,18 +112,8 @@
 ---
 
 <div align="center">
-  
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 **Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=BharateshPoojary&color=brightgreen&style=flat-square)
 
 </div>
 
