@@ -16,80 +16,67 @@
 - 🌱 Always learning and exploring new technologies
 - 💡 Love building scalable and user-friendly applications
 
-## 🛠️ Tech Stack
 
-### Frontend
+
+## 🛠️ Languages and Tools:
+
 <div align="left">
   <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
   </a>
   <a href="https://react.dev/learn" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   </a>
-</div>
-
-### UI Libraries & Tools
-<div align="left">
-  <a href="https://ui.shadcn.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
   </a>
-  <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
   </a>
   <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
   </a>
-</div>
-
-### Backend
-<div align="left">
   <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
   </a>
-</div>
-
-### Database
-<div align="left">
   <a href="https://docs.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
   </a>
-</div>
-
-### Development Tools
-<div align="left">
   <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   </a>
   <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  </a>
+  <a href="https://ui.shadcn.com/docs" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="shadcn/ui" width="45" height="45"/>
+  </a>
+  <a href="https://tanstack.com/query/latest" target="_blank">
+    <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" width="45" height="45"/>
   </a>
 </div>
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ### 🔥 Streak Stats
-![BharateshPoojary's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BharateshPoojary&theme=vue-dark&hide_border=true)
+![BharateshPoojary's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BharateshPoojary&theme=default&hide_border=true&background=FFFFFF)
 
 ### 📈 Most Used Languages
-![BharateshPoojary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharateshPoojary&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![BharateshPoojary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharateshPoojary&theme=default&show_icons=true&hide_border=true&layout=compact&bg_color=FFFFFF)
 
 ### 📊 GitHub Stats
-![BharateshPoojary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharateshPoojary&theme=vue-dark&show_icons=true&hide_border=true)
+![BharateshPoojary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharateshPoojary&theme=default&show_icons=true&hide_border=true&bg_color=FFFFFF)
 
 </div>
 
@@ -98,14 +85,26 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharatesh-poojary)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bharatesh-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharateshpoojari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 </div>
 
 <div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 **Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
+
+</div>
+
+--
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=BharateshPoojary&color=brightgreen&style=flat-square)
 
 </div>
 
