@@ -1,7 +1,7 @@
 <div align="center">
   
 <a href="https://bharatesh-portfolio.vercel.app" target="_blank">
-<img src="https://github.com/user-attachments/assets/52343475-3a86-4832-b800-553928b03571" alt="Bharatesh Poojary" width="w-full" height="350"/>
+<img src="https://github.com/user-attachments/assets/52343475-3a86-4832-b800-553928b03571" alt="Bharatesh Poojary" width="1000" height="350"/>
 </a>
 
 </div>
@@ -83,7 +83,7 @@
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div align="center" >
     <a href="https://linkedin.com/in/bharatesh-poojary" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
@@ -101,8 +101,6 @@
 **Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
 
 </div>
-
---
 
 <div align="center">
   
