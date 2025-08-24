@@ -1,20 +1,20 @@
-<div align="center">
-  
-<a href="https://bharatesh-portfolio.vercel.app" target="_blank">
-<img src="https://github.com/user-attachments/assets/52343475-3a86-4832-b800-553928b03571" alt="Bharatesh Poojary" width="1000" height="350"/>
-</a>
-
-</div>
-
-
-
 ## 🧑‍💻 About Me
 
-- 👀 **Passionate** about developing full stack web applications using **MERN Stack** & **Next.js**
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I can code for hours without realizing the time passes by!
-- 🌱 Always learning and exploring new technologies
-- 💡 Love building scalable and user-friendly applications
+- Crafting user-friendly applications with modern tools,ensuring  scalability and performance.
+   I’m a Frontend Engineer who loves turning designs into smooth, scalable, and high-performing applications. Over the years, I’ve grown from building simple interfaces to handling end-    to-end development for complex platforms like HR Management Systems, social apps, and AI-powered tools.
+
+- At Vighnotech, I led 80% of the frontend development for an ERP system, improving performance by 30% and making forms more user-friendly. I’ve also built apps with modern tools like     Next.js, React, TypeScript, Redux, ShadCN UI, and AWS, focusing on speed, accessibility, and a great user experience.
+
+- I enjoy solving real problems—whether that means improving performance, creating reusable components, or making sure the app looks and works great on any device. Along the way, I’ve     been recognized as Employee of the Month for my commitment and results.
+
+🔹 What I bring:
+✅ Strong frontend development with React & Next.js
+✅ Scalable design systems and clean, reusable components
+✅ Performance and state management improvements
+✅ Secure authentication and cloud integration
+✅ Team collaboration and open-source contributions
+
+I’m always excited to work on products that make an impact and help businesses grow. If you’re building something meaningful, let’s connect!
 
 
 
