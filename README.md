@@ -1,7 +1,8 @@
+
 ## 🧑‍💻 About Me
 
-- Crafting user-friendly applications with modern tools,ensuring  scalability and performance.
-   I’m a Frontend Engineer who loves turning designs into smooth, scalable, and high-performing applications. Over the years, I’ve grown from building simple interfaces to handling end-    to-end development for complex platforms like HR Management Systems, social apps, and AI-powered tools.
+###  Crafting user-friendly applications with modern tools,ensuring  scalability and performance.
+- I’m a Frontend Engineer who loves turning designs into smooth, scalable, and high-performing applications. Over the years, I’ve grown from building simple interfaces to handling end-    to-end development for complex platforms like HR Management Systems, social apps, and AI-powered tools.
 
 - At Vighnotech, I led 80% of the frontend development for an ERP system, improving performance by 30% and making forms more user-friendly. I’ve also built apps with modern tools like     Next.js, React, TypeScript, Redux, ShadCN UI, and AWS, focusing on speed, accessibility, and a great user experience.
 
@@ -102,10 +103,6 @@ I’m always excited to work on products that make an impact and help businesses
 
 </div>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=BharateshPoojary&color=brightgreen&style=flat-square)
 
-</div>
 
 
