@@ -71,8 +71,6 @@ I’m always excited to work on products that make an impact and help businesses
 ### 📈 Most Used Languages
 ![BharateshPoojary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharateshPoojary&theme=default&show_icons=true&hide_border=true&layout=compact&bg_color=FFFFFF)
 
-### 📊 GitHub Stats
-![BharateshPoojary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharateshPoojary&theme=default&show_icons=true&hide_border=true&bg_color=FFFFFF)
 
 </div>
 
