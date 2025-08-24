@@ -43,15 +43,6 @@ I’m always excited to work on products that make an impact and help businesses
   <a href="https://tailwindcss.com/docs" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
   </a>
-  <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
-  </a>
-  <a href="https://docs.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  </a>
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   </a>
@@ -64,6 +55,10 @@ I’m always excited to work on products that make an impact and help businesses
   <a href="https://tanstack.com/query/latest" target="_blank">
     <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" width="45" height="45"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" alt="AWS" width="45" height="45"/>
+</a>
+
 </div>
 
 ## 📊 GitHub Stats
