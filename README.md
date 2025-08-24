@@ -9,11 +9,11 @@
 - I enjoy solving real problems—whether that means improving performance, creating reusable components, or making sure the app looks and works great on any device. Along the way, I’ve     been recognized as Employee of the Month for my commitment and results.
 
 🔹 What I bring:
-✅ Strong frontend development with React & Next.js
-✅ Scalable design systems and clean, reusable components
-✅ Performance and state management improvements
-✅ Secure authentication and cloud integration
-✅ Team collaboration and open-source contributions
+- ✅ Strong frontend development with React & Next.js
+- ✅ Scalable design systems and clean, reusable components
+- ✅ Performance and state management improvements
+- ✅ Secure authentication and cloud integration
+- ✅ Team collaboration and open-source contributions
 
 I’m always excited to work on products that make an impact and help businesses grow. If you’re building something meaningful, let’s connect!
 
