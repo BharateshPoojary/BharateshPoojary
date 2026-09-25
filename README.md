@@ -30,17 +30,6 @@ I'm a **Full Stack AI Engineer** who enjoys turning complex business problems in
 - 🎓 **Bachelor of Computer Applications** with a **9.49 CGPA**
 - 🏆 **Employee of the Month** at Vighnotech (April 2025)
 
----
-
-## 💼 Experience
-
-**Full Stack AI Engineer** · *Infiny WebCom Pvt. Ltd* · Feb 2026 – Present
-> Designed and shipped the coupons and gifts campaign system for Medimny, one of the platform's largest features, handling real-money workflows end to end. Optimized performance by cutting redundant API calls, trimming client payloads, and refining database queries. Collaborated with DevOps, mobile, and client teams on infrastructure and clustered database setups.
-
-**Full Stack Developer** · *Vighnotech* · Mar 2025 – Jan 2026
-> Sole developer of the Inventory Management System within the company's ERP suite, owning frontend and backend end to end. Built robust APIs covering the full inventory lifecycle and improved page render time by 5–8%. Contributed to SaaS products across HR, academic, hostel management, and ERP domains.
-
----
 
 ## 🚀 Featured Projects
 
@@ -118,9 +107,6 @@ I'm a **Full Stack AI Engineer** who enjoys turning complex business problems in
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BharateshPoojary&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharateshPoojary&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&langs_count=6" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=BharateshPoojary&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 </div>
 
