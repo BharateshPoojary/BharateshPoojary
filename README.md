@@ -1,101 +1,139 @@
+<div align="center">
+
+# Hi there, I'm Bharatesh Poojary 👋
+
+### Full Stack AI Engineer · Mumbai, India
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+production-grade+full+stack+apps;RAG+pipelines+%7C+LLMs+%7C+Vector+Databases;Next.js+%7C+Node.js+%7C+MongoDB+%7C+AWS" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-bharatwebcrafts.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bharatwebcrafts.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharatesh--poojary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharatesh-poojary)
+[![Email](https://img.shields.io/badge/Email-bharatesh@bharatwebcrafts.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatesh@bharatwebcrafts.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=BharateshPoojary&color=7C3AED&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
 
 ## 🧑‍💻 About Me
 
-###  Crafting user-friendly applications with modern tools,ensuring  scalability and performance.
-- I’m a Frontend Engineer who loves turning designs into smooth, scalable, and high-performing applications. Over the years, I’ve grown from building simple interfaces to handling end-    to-end development for complex platforms like HR Management Systems, social apps, and AI-powered tools.
+I'm a **Full Stack AI Engineer** who enjoys turning complex business problems into reliable, well-architected products. I work across the entire stack, from designing APIs and database schemas to crafting responsive interfaces and building AI-powered features with LLMs, RAG, and vector search.
 
-- At Vighnotech, I led 80% of the frontend development for an ERP system, improving performance by 30% and making forms more user-friendly. I’ve also built apps with modern tools like     Next.js, React, TypeScript, Redux, ShadCN UI, and AWS, focusing on speed, accessibility, and a great user experience.
+- 🔭 Currently building at **Infiny WebCom** on **Medimny**, a leading B2B pharma platform in India with **4,000+ active users**
+- 🤖 Exploring **LLM applications, RAG pipelines, and multi-tenant AI architectures**
+- ⚡ Focused on **performance, clean architecture, and shipping to production**
+- 🎓 **Bachelor of Computer Applications** with a **9.49 CGPA**
+- 🏆 **Employee of the Month** at Vighnotech (April 2025)
 
-- I enjoy solving real problems—whether that means improving performance, creating reusable components, or making sure the app looks and works great on any device. Along the way, I’ve     been recognized as Employee of the Month for my commitment and results.
+---
 
-🔹 What I bring:
-- ✅ Strong frontend development with React & Next.js
-- ✅ Scalable design systems and clean, reusable components
-- ✅ Performance and state management improvements
-- ✅ Secure authentication and cloud integration
-- ✅ Team collaboration and open-source contributions
+## 💼 Experience
 
-I’m always excited to work on products that make an impact and help businesses grow. If you’re building something meaningful, let’s connect!
+**Full Stack AI Engineer** · *Infiny WebCom Pvt. Ltd* · Feb 2026 – Present
+> Designed and shipped the coupons and gifts campaign system for Medimny, one of the platform's largest features, handling real-money workflows end to end. Optimized performance by cutting redundant API calls, trimming client payloads, and refining database queries. Collaborated with DevOps, mobile, and client teams on infrastructure and clustered database setups.
 
+**Full Stack Developer** · *Vighnotech* · Mar 2025 – Jan 2026
+> Sole developer of the Inventory Management System within the company's ERP suite, owning frontend and backend end to end. Built robust APIs covering the full inventory lifecycle and improved page render time by 5–8%. Contributed to SaaS products across HR, academic, hostel management, and ERP domains.
 
+---
 
-## 🛠️ Languages and Tools:
+## 🚀 Featured Projects
 
-<div align="left">
-  <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
-  </a>
-  <a href="https://react.dev/learn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  </a>
-  <a href="https://ui.shadcn.com/docs" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="shadcn/ui" width="45" height="45"/>
-  </a>
-  <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" width="45" height="45"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" alt="AWS" width="45" height="45"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/BharateshPoojary/askpdf">AskPDF</a></h3>
+      <p>A production-ready <b>RAG chatbot</b> that lets users chat with their uploaded PDFs, with real-time streaming responses.</p>
+      <ul>
+        <li>Ingestion pipeline: PDF parsing → overlapping chunking → Gemini embeddings → Pinecone indexing</li>
+        <li>Per-user metadata scoping for secure multi-tenant retrieval</li>
+        <li>Clerk auth, guest-access flow, and MongoDB chat history</li>
+        <li>Multi-stage Docker builds with GitHub Actions CI/CD</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/BharateshPoojary/anonytalks">AnonyTalks</a></h3>
+      <p>A self-hosted <b>social media platform</b> for anonymous, direct media sharing through unique shareable links.</p>
+      <ul>
+        <li>Secure, scalable file uploads with AWS S3</li>
+        <li>Session-based auth with NextAuth (Google OAuth + credentials)</li>
+        <li>Transactional emails powered by Resend</li>
+        <li>Polished UI built with ShadCN UI and Redux state management</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+        <img src="https://img.shields.io/badge/NextAuth-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,astro,redux,tailwind&perline=10" />
+</p>
+
+**Databases, Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,aws,docker,githubactions,git,github,linux,vercel&perline=10" />
+</p>
+
+**AI & Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-### 🔥 Streak Stats
-![BharateshPoojary's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BharateshPoojary&theme=default&hide_border=true&background=FFFFFF)
-
-### 📈 Most Used Languages
-![BharateshPoojary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharateshPoojary&theme=default&show_icons=true&hide_border=true&layout=compact&bg_color=FFFFFF)
-
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BharateshPoojary&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharateshPoojary&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&langs_count=6" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=BharateshPoojary&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 </div>
 
-
-## 🤝 Let's Connect!
-
-<div align="center" style="display:flex; gap:2" >
-    <a href="https://linkedin.com/in/bharatesh-poojary" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45"/>
-  </a>
-     <a href="mailto:bharateshpoojari@gmail.com" target="_blank">
-    <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="LinkedIn" width="45" height="45"/>
-  </a>
-
-
-</div>
+---
 
 <div align="center">
-  
-###  *💭 "Every line of code tells a story. Make yours worth reading."* 
 
-**Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
+### 🤝 Let's Connect
+
+I'm always open to discussing full stack engineering, AI products, or new opportunities.
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://bharatwebcrafts.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharatesh-poojary)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bharatesh@bharatwebcrafts.com)
 
 </div>
-
-
-
-
